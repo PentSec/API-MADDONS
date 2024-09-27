@@ -1,0 +1,12 @@
+[
+    {
+        "name": "TEST",
+        "githubRepo": "https://github.com/PentSec/TEST",
+        "imageUrl": "https://github.com/PentSec/TEST/blob/main/TEST.png?raw=true",
+        "addonType": "UI",
+        "author": "Sitoz",
+        "description": "TEST",
+        "lastCommitDate": "2024-06-29",
+        "Hot": "🔥"
+    }
+]
