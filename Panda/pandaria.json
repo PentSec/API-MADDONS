@@ -8,5 +8,15 @@
         "description": "TEST",
         "lastCommitDate": "2024-06-29",
         "Hot": "🔥"
+    },
+    {
+        "name": "ACP",
+        "githubRepo": "https://github.com/YoharJB/ACP",
+        "imageUrl": "https://github.com/YoharJB/ACP/blob/main/images.jpg?raw=true",
+        "addonType": "Utility",
+        "author": "Github",
+        "description": "Stop logging out of the game just to change your addons! ACP adds the Addons button to the game's main menu to disable/enable Addons.",
+        "lastCommitDate": "2024-06-07",
+        "Hot": "🔥"
     }
 ]
