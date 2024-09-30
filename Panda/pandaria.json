@@ -1,12 +1,12 @@
 [
     {
-        "name": "TEST",
-        "githubRepo": "https://github.com/PentSec/TEST",
-        "imageUrl": "https://github.com/PentSec/TEST/blob/main/SuperEmotes.png?raw=true",
+        "name": "ElvUI-4.3.4",
+        "githubRepo": "https://github.com/ElvUI-Cataclysm/ElvUI-4.3.4",
+        "imageUrl": "https://avatars.githubusercontent.com/u/25153064?s=48&v=4",
         "addonType": "UI",
         "author": "Sitoz",
-        "description": "TEST",
-        "lastCommitDate": "2024-06-29",
+        "description": "ElvUI for World of Warcraft - Cataclysm (4.3.4)",
+        "lastCommitDate": "2021-14-12",
         "Hot": "🔥"
     },
     {
