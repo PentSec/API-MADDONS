@@ -1,21 +1,21 @@
 [
     {
-        "name": "TEST",
-        "githubRepo": "https://github.com/PentSec/TEST",
-        "imageUrl": "https://github.com/PentSec/TEST/blob/main/TEST.png?raw=true",
+        "name": "ElvUI-4.3.4",
+        "githubRepo": "https://github.com/ElvUI-Cataclysm/ElvUI-4.3.4",
+        "imageUrl": "https://avatars.githubusercontent.com/u/25153064?s=48&v=4",
         "addonType": "UI",
         "author": "Sitoz",
-        "description": "TEST",
-        "lastCommitDate": "2024-06-29",
+        "description": "ElvUI for World of Warcraft - Cataclysm (4.3.4)",
+        "lastCommitDate": "2021-14-12",
         "Hot": "🔥"
     },
     {
-        "name": "ACP",
-        "githubRepo": "https://github.com/YoharJB/ACP",
+        "name": "ACP-4.3.4",
+        "githubRepo": "https://github.com/YoharJB/ACP-4.3.4",
         "imageUrl": "https://github.com/YoharJB/ACP/blob/main/images.jpg?raw=true",
         "addonType": "Utility",
         "author": "Github",
-        "description": "Stop logging out of the game just to change your addons! ACP adds the Addons button to the game's main menu to disable/enable Addons.",
+        "description": "Addon control panel for Cataclysm 4.3.4, Control ur addons ingame without logout.",
         "lastCommitDate": "2024-06-07",
         "Hot": "🔥"
     }
