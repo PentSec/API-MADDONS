@@ -1,6 +1,6 @@
 [
     {
-        "name": "ElvUI-4.3.4",
+        "name": "ElvUI",
         "folders": ["ElvUI", "ElvUI_OptionsUI"],
         "githubRepo": "https://github.com/ElvUI-Cataclysm/ElvUI-4.3.4",
         "imageUrl": "https://avatars.githubusercontent.com/u/25153064?s=48&v=4",
@@ -11,7 +11,7 @@
         "Hot": "🔥"
     },
     {
-        "name": "ACP-4.3.4",
+        "name": "ACP",
         "folders": ["ACP"],
         "githubRepo": "https://github.com/YoharJB/ACP-4.3.4",
         "imageUrl": "https://github.com/YoharJB/ACP/blob/main/images.jpg?raw=true",

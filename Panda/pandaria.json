@@ -1,6 +1,6 @@
 [
     {
-        "name": "ElvUI-MOP",
+        "name": "ElvUI",
         "folders": ["ElvUI", "ElvUI_OptionsUI", "ElvUI_AddOnSkins", "ElvUI_Enhanced", "ElvUI_EnhancedFriendsList", "ElvUI_MicrobarEnhancement"],
         "githubRepo": "https://github.com/YoharJB/ElvUI-MOP",
         "imageUrl": "https://avatars.githubusercontent.com/u/25153064?s=48&v=4",

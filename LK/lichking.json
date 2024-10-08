@@ -22,7 +22,7 @@
         "Hot": "🔥"
     },
     {
-        "name": "MogIt_MasterWow",
+        "name": "MogIt",
         "folders": ["MogIt", "MogIt_Accessories", "MogIt_Cloth", "MogIt_DonorVendor", "MogIt_GoldVendor", "MogIt_Leather", "MogIt_LegendaryVendor", "MogIt_Mail", "MogIt_OneHanded", "MogIt_Other", "MogIt_Plate", "MogIt_Ranged", "MogIt_TwoHanded", "MogIt_WorldBosses"],
         "githubRepo": "https://github.com/PentSec/MogIt_MasterWow",
         "imageUrl": "https://github.com/PentSec/MogIt_MasterWow/blob/main/mogit.png?raw=true",
@@ -55,7 +55,7 @@
         "Hot": ""
     },
     {
-        "name": "Skada-WoTLK",
+        "name": "Skada",
         "folders": ["Skada", "SkadaImprovement", "SkadaStorage"],
         "githubRepo": "https://github.com/PentSec/Skada-WoTLK",
         "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/62/287/256/256/636142135917313783.png",
@@ -66,7 +66,7 @@
         "Hot": ""
     },
     {
-        "name": "Talented_WoTLK",
+        "name": "Talented",
         "folders": ["Talented"],
         "githubRepo": "https://github.com/bkader/Talented_WoTLK",
         "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/228/151/256/256/637048648466465610.png",
@@ -77,7 +77,7 @@
         "Hot": ""
     },
     {
-        "name": "ElvUI-WOTLK",
+        "name": "ElvUI",
         "folders": ["ElvUI", "ElvUI_OptionsUI", "ElvUI_AddOnSkins", "ElvUI_ChatTweaks", "ElvUI_AuraBarsMovers", "ElvUI_BagControl", "ElvUI_CastBarOverlay", "ElvUI_CustomTags", "ElvUI_CustomTweaks", "ElvUI_DTBars2", "ElvUI_DataTextColors", "ElvUI_Enhanced", "ElvUI_EnhancedFriendsList", "ElvUI_ExtraActionBars", "ElvUI_LocPlus", "ElvUI_MicrobarEnhancement", "ElvUI_RaidMarkers", "ElvUI_VisualProcs"],
         "githubRepo": "https://github.com/YoharJB/ElvUI-WOTLK",
         "imageUrl": "https://i.gyazo.com/4c42aa8f405e5dcf0f27808547cb5a5e.png",
@@ -88,7 +88,7 @@
         "Hot": ""
     },
     {
-        "name": "WotLK-Auctionator",
+        "name": "Auctionator",
         "folders": ["Auctionator"],
         "githubRepo": "https://github.com/alchem1ster/WotLK-Auctionator",
         "imageUrl": "https://wow.zamimg.com/images/wow/icons/large/inv_10_fishing_dragonislescoins_gold.jpg",
@@ -99,7 +99,7 @@
         "Hot": ""
     },
     {
-        "name": "TradeSkillMaster_WOTLK",
+        "name": "TradeSkillMaster",
         "folders": ["TradeSkillMaster", "TradeSkillMaster_Accounting", "TradeSkillMaster_AuctionDB", "TradeSkillMaster_Auctioning", "TradeSkillMaster_Crafting", "TradeSkillMaster_Destroying", "TradeSkillMaster_ItemTracker", "TradeSkillMaster_Mailing", "TradeSkillMaster_Shopping", "TradeSkillMaster_Warehousing"],
         "githubRepo": "https://github.com/YoharJB/TradeSkillMaster_WOTLK",
         "imageUrl": "https://www.tradeskillmaster.com/apple-touch-icon-180x180.png",
@@ -121,7 +121,7 @@
         "Hot": ""
     },
     {
-        "name": "WeakAuras-WotLK",
+        "name": "WeakAuras",
         "folders": ["WeakAuras", "WeakAurasArchive", "WeakAurasModelPaths", "WeakAurasOptions"],
         "githubRepo": "https://github.com/Bunny67/WeakAuras-WotLK",
         "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/62/782/256/256/636142194921799650.png",
@@ -132,7 +132,7 @@
         "Hot": ""
     },
     {
-        "name": "TidyPlates_WoTLK",
+        "name": "TidyPlates",
         "folders": ["TidyPlates", "TidyPlates_Graphite", "TidyPlates_Grey", "TidyPlates_Neon", "TidyPlates_Quatre", "TidyPlates_ThreatPlates"],
         "githubRepo": "https://github.com/bkader/TidyPlates_WoTLK",
         "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/55/451/256/256/636141352218161611.jpg",
@@ -143,7 +143,7 @@
         "Hot": ""
     },
     {
-        "name": "RUF-WoTLK",
+        "name": "RUF",
         "folders": ["RUF"],
         "githubRepo": "https://github.com/bkader/RUF-WoTLK",
         "imageUrl": "https://user-images.githubusercontent.com/4732702/136260639-7f31e51f-39c3-418d-85cc-230e72b1cdad.png",
@@ -165,7 +165,7 @@
         "Hot": ""
     },
     {
-        "name": "Carbonite_WOTLK",
+        "name": "Carbonite",
         "folders": ["Carbonite", "CarboniteItems", "CarboniteNodes", "CarboniteTransfer"],
         "githubRepo": "https://github.com/YoharJB/Carbonite_WOTLK",
         "imageUrl": "https://github.com/YoharJB/Carbonite_WOTLK/blob/main/636141463188861085.jpg?raw=true",
@@ -209,7 +209,7 @@
         "Hot": ""
     },
     {
-        "name": "Details-WotLK",
+        "name": "Details",
         "folders": ["Details", "Details_3DModelsPaths", "Details_ChartViewer", "Details_DataStorage", "Details_DeathGraphs", "Details_EncounterDetails", "Details_SunderCount", "Details_TimeLine", "Details_TinyThreat"],
         "githubRepo": "https://github.com/NoM0Re/Details-WotLK",
         "imageUrl": "https://media.forgecdn.net/attachments/215/323/mainwindow.png",
@@ -319,7 +319,7 @@
         "Hot": ""
     },
     {
-        "name": "OmniCC_WOTLK",
+        "name": "OmniCC",
         "folders": ["OmniCC", "OmniCC_Config"],
         "githubRepo": "https://github.com/YoharJB/OmniCC_WOTLK",
         "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/137/516/256/256/636515481273843403.jpeg",
@@ -385,7 +385,7 @@
         "Hot": ""
     },
     {
-        "name": "Bagnon_WOTLK",
+        "name": "Bagnon",
         "folders": ["Bagnon", "Bagnon_Config", "Bagnon_Forever", "Bagnon_GuildBank", "Bagnon_Tooltips", "Bagnon_VoidStorage"],
         "githubRepo": "https://github.com/YoharJB/Bagnon_WOTLK",
         "imageUrl": "https://media.forgecdn.net/avatars/thumbnails/647/705/256/256/638048338012580367.png",
