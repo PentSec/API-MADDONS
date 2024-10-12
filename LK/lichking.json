@@ -540,7 +540,7 @@
     },
     {
         "name": "Altoholic",
-        "folders": ["Altoholic", "Altoholic_Achievements", "DataStore", "DataStore_Achievements", "DataStore_Auctions", "DataStore_Character", "DataStore_Containers", "DataStore_Crafts", "DataStore_Currencies", "DataStore_Mails", "DataStore_Pets", "DataStore_Quests", "DataStore_Reputations", "DataStore_Skills", "DataStore_Spells", "DataStore_Stats", "DataStore_Talents"],
+        "folders": ["Altoholic", "Altoholic_Achievements", "DataStore", "DataStore_Achievements", "DataStore_Auctions", "DataStore_Characters", "DataStore_Containers", "DataStore_Crafts", "DataStore_Currencies", "DataStore_Mails", "DataStore_Pets", "DataStore_Quests", "DataStore_Reputations", "DataStore_Skills", "DataStore_Spells", "DataStore_Stats", "DataStore_Talents", "DataStore_Inventory"],
         "githubRepo": "https://github.com/MaddonsManager/Altoholic_",
         "imageUrl": "https://github.com/MaddonsManager/Altoholic_/blob/main/Altoholic.png?raw=true",
         "addonType": "Auction",
