@@ -1,0 +1,17 @@
+[
+    {
+        "uuid": "1",
+        "Titlte": "WeakAuras",
+        "description": "WeakAuras is a framework for creating addons that can be used with any World of Warcraft client.",
+        "wastring": "",
+        "author": "WeakAuras Team",
+        "version": "1.0.0",
+        "addon": "WeakAuras",
+        "tags": ["addon", "framework", "library"],
+        "images": {
+            "image": "https://i.imgur.com/1w0o0uG.png",
+            "image": "https://i.imgur.com/1w0o0uG.png",
+            "icon": "https://i.imgur.com/1w0o0uG.png"
+        }
+    }
+]
