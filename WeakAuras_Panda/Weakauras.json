@@ -5,6 +5,7 @@
         "description": "WeakAuras is a framework for creating addons that can be used with any World of Warcraft client. It is designed to be modular and extensible, and to provide a simple and intuitive API for creating addons.",
         "author": "WeakAuras Team",
         "version": "1.0.0",
+        "type": "PvP",
         "tags": ["General", "Profession", "PvE", "PvP"],
         "class": ["Druid", "Hunter", "Mage", "Paladin", "Priest", "Rogue", "Shaman", "Warlock", "Warrior", "Death Knight", "Monk"],
         "images": {
