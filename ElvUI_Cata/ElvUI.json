@@ -1,0 +1,19 @@
+[
+    {
+        "uuid": "1",
+        "title": "ELvui CATA TEST",
+        "description": "WeakAuras is a framework for creating addons that can be used with any World of Warcraft client. It is designed to be modular and extensible, and to provide a simple and intuitive API for creating addons.",
+        "author": "ELvui Team",
+        "version": "1.0.0",
+        "type": "PvP",
+        "roles": ["DPS", "TANK", "HEALER"],
+        "class": ["Druid", "Hunter", "Mage", "Paladin", "Priest", "Rogue", "Shaman", "Warlock", "Warrior", "Death Knight", "Monk"],
+        "images": {
+            "Logo": "https://i.imgur.com/1w0o0uG.png",
+            "image": "https://i.imgur.com/1w0o0uG.png",
+            "image1": "https://i.imgur.com/1w0o0uG.png",
+            "image2": "https://i.imgur.com/1w0o0uG.png",
+            "image3": "https://i.imgur.com/1w0o0uG.png"
+        }
+    }
+]
