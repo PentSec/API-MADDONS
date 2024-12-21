@@ -5,8 +5,9 @@
         "description": "ElvUI is a framework for creating addons that can be used with any World of Warcraft client. It is designed to be modular and extensible, and to provide a simple and intuitive API for creating addons.",
         "author": "ElvUI Team",
         "version": "1.0.0",
+        "changelog": ["1.0.0 - Initial Release"],
         "type": "PvE",
-        "roles": ["DPS", "TANK", "HEALER"],
+        "tags": ["DPS", "TANK", "HEALER"],
         "class": ["Druid", "Hunter", "Mage", "Paladin", "Priest", "Rogue", "Shaman", "Warlock", "Warrior", "Death Knight", "Monk"],
         "images": {
             "Logo": "https://i.imgur.com/1w0o0uG.png",
@@ -22,8 +23,9 @@
         "description": "ElvUI is a framework for creating addons that can be used with any World of Warcraft client. It is designed to be modular and extensible, and to provide a simple and intuitive API for creating addons.",
         "author": "ElvUI Team",
         "version": "1.0.0",
+        "changelog": ["1.0.0 - Initial Release"],
         "type": "PvP",
-        "roles": ["DPS", "TANK", "HEALER"],
+        "tags": ["DPS", "TANK", "HEALER"],
         "class": ["Druid", "Hunter", "Mage", "Paladin", "Priest", "Rogue", "Shaman", "Warlock", "Warrior", "Death Knight", "Monk"],
         "images": {
             "Logo": "https://i.imgur.com/1w0o0uG.png",
@@ -39,8 +41,9 @@
         "description": "ElvUI is a framework for creating addons that can be used with any World of Warcraft client. It is designed to be modular and extensible, and to provide a simple and intuitive API for creating addons.",
         "author": "ElvUI Team",
         "version": "1.0.0",
+        "changelog": ["1.0.0 - Initial Release"],
         "type": "General",
-        "roles": ["DPS", "TANK", "HEALER"],
+        "tags": ["DPS", "TANK", "HEALER"],
         "class": ["Druid", "Hunter", "Mage", "Paladin", "Priest", "Rogue", "Shaman", "Warlock", "Warrior", "Death Knight", "Monk"],
         "images": {
             "Logo": "https://i.imgur.com/1w0o0uG.png",
