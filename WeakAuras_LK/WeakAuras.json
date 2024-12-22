@@ -8,6 +8,7 @@
         "changelog": ["1.0.0 - Initial Release"],
         "type": "General",
         "tags": ["General", "PvE", "PvP"],
+        "roles": ["dps", "tank", "healer"],
         "class": ["Rogue"],
         "images": {
             "Logo": "",
@@ -25,6 +26,7 @@
         "version": "1.0.0",
         "type": "PvP",
         "tags": ["General", "Profession", "PvE", "PvP"],
+        "roles": ["dps", "tank", "healer"],
         "class": ["Druid", "Hunter", "Mage", "Paladin", "Priest", "Rogue", "Shaman", "Warlock", "Warrior", "Death Knight", "Monk"],
         "images": {
             "Logo": "https://i.imgur.com/1w0o0uG.png",
@@ -42,6 +44,7 @@
         "version": "1.0.0",
         "type": "General",
         "tags": ["General", "Profession", "PvE", "PvP"],
+        "roles": ["dps", "tank", "healer"],
         "class": ["Druid", "Hunter", "Mage", "Paladin", "Priest", "Rogue", "Shaman", "Warlock", "Warrior", "Death Knight", "Monk"],
         "images": {
             "Logo": "https://i.imgur.com/1w0o0uG.png",
