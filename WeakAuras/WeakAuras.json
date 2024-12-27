@@ -11,7 +11,7 @@
         "tags": ["General", "PvE", "PvP"],
         "roles": ["dps", "tank", "healer"],
         "class": ["Rogue"],
-        "logo": "banner.bmp",
+        "logo": "banner.webp",
         "preview": "preview.webp",
         "preview2": "preview1.webp",
         "preview3": "preview2.webp"
@@ -28,7 +28,7 @@
         "tags": ["General", "PvE", "PvP"],
         "roles": ["dps", "tank", "healer"],
         "class": ["Rogue"],
-        "logo": "banner.webp",
+        "logo": "banner.bmp",
         "preview": "preview.webp",
         "preview2": "preview1.webp",
         "preview3": "preview2.webp"
@@ -46,8 +46,8 @@
         "roles": ["dps", "tank", "healer"],
         "class": ["Rogue"],
         "logo": "banner.bmp",
-        "preview": "preview.webp",
-        "preview2": "preview1.webp",
-        "preview3": "preview2.webp"
+        "preview": "preview.bmp",
+        "preview2": "preview1.bmp",
+        "preview3": "preview2.bmp"
     }
 ]
