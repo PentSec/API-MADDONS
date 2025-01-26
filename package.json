@@ -9,7 +9,7 @@
     "jest": {
         "testEnvironment": "node",
         "testMatch": [
-            "**/.github/test/**/*.test.js"
+            "**/tests/**/*.test.js"
         ]
     }
 }

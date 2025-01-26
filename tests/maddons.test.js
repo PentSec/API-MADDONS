@@ -5,8 +5,8 @@ const allowedValues = {
     expansions: ['Cataclysm', 'Lichking', 'Pandaria', 'Vanilla', 'TBC'],
     tags: [
         'General',
-        'PvE',
-        'PvP',
+        'PvE', 
+        'PvP', 
         "All Categories",
         "Achievements",
         "Action Bars",
@@ -51,10 +51,10 @@ describe('validate json and folder structure', () => {
     const baseDir = path.resolve('API');
 
     jsonFiles.forEach((jsonFile) => {
-        test(validate ${ jsonFile }, () => {
+        test(`validate ${jsonFile}`, () => {
             const jsonPath = path.resolve(baseDir, jsonFile);
             if (!fs.existsSync(jsonPath)) {
-                console.log(${ jsonFile } does not exist, skipping...);
+                console.log(`${jsonFile} does not exist, skipping...`);
                 return;
             }
 
@@ -66,7 +66,7 @@ describe('validate json and folder structure', () => {
                 const { title, file_name, expansion, tags, roles, class: classes } = entry;
 
                 if (!file_name) {
-                    throw new Error(The field file_name is required: ${ JSON.stringify(entry) });
+                    throw new Error(`The field file_name is required: ${JSON.stringify(entry)}`);
                 }
 
                 Object.keys(entry).forEach((key) => {
@@ -74,13 +74,13 @@ describe('validate json and folder structure', () => {
                 });
 
                 if (!isValidFileName(file_name)) {
-                    console.log(Invalid "file_name" value: "${file_name}".Allowed characters are letters, numbers, hyphens(-), underscores(_), and spaces.);
+                    console.log(`Invalid "file_name" value: "${file_name}". Allowed characters are letters, numbers, hyphens (-), underscores (_), and spaces.`);
                 }
                 expect(isValidFileName(file_name)).toBe(true);
 
                 if (!Array.isArray(expansion)) {
                     if (!allowedValues.expansions.includes(expansion)) {
-                        throw new Error(Invalid expansion "${expansion}" in ${ JSON.stringify(entry) });
+                        throw new Error(`Invalid expansion "${expansion}" in ${JSON.stringify(entry)}`);
                     }
                 } else {
                     expansion.forEach((value) => {
@@ -92,7 +92,7 @@ describe('validate json and folder structure', () => {
                     fileNamesByExpansion[expansion] = new Set();
                 }
                 if (fileNamesByExpansion[expansion].has(file_name)) {
-                    throw new Error(The file_name "${file_name}" is duplicated in the expansion "${expansion}" in the ${ jsonFile } file.);
+                    throw new Error(`The file_name "${file_name}" is duplicated in the expansion "${expansion}" in the ${jsonFile} file.`);
                 }
                 fileNamesByExpansion[expansion].add(file_name);
 
@@ -105,18 +105,18 @@ describe('validate json and folder structure', () => {
                 let expectedFiles;
                 if (jsonFile === 'Maddons.json') {
                     folderPath = path.join(baseDir, 'Addons', Array.isArray(expansion) ? expansion[0] : expansion, file_name);
-                    expectedFiles = [post.md, ${ file_name }.webp, ${ file_name }.zip];
+                    expectedFiles = [`post.md`, `${file_name}.webp`, `${file_name}.zip`];
                 } else if (jsonFile === 'ElvUI.json') {
                     folderPath = path.join(baseDir, 'ElvUI', Array.isArray(expansion) ? expansion[0] : expansion, file_name);
-                    expectedFiles = [post.md, ${ file_name }.webp, ${ file_name }.txt];
+                    expectedFiles = [`post.md`, `${file_name}.webp`, `${file_name}.txt`];
                 } else if (jsonFile === 'WeakAuras.json') {
                     folderPath = path.join(baseDir, 'WeakAuras', Array.isArray(expansion) ? expansion[0] : expansion, file_name);
-                    expectedFiles = [post.md, ${ file_name }.webp, ${ file_name }.txt];
+                    expectedFiles = [`post.md`, `${file_name}.webp`, `${file_name}.txt`];
                 }
 
                 const folderExists = fs.existsSync(folderPath);
                 if (!folderExists) {
-                    console.log(Folder does not exist: ${ folderPath });
+                    console.log(`Folder does not exist: ${folderPath}`);
                 }
                 expect(fs.existsSync(folderPath)).toBe(true);
 
@@ -124,7 +124,7 @@ describe('validate json and folder structure', () => {
                     const filePath = path.join(folderPath, file);
                     const fileExists = fs.existsSync(filePath);
                     if (!fileExists) {
-                        console.log(File does not exist: ${ filePath });
+                        console.log(`File does not exist: ${filePath}`);
                     }
                     expect(fs.existsSync(filePath)).toBe(true);
                 });
