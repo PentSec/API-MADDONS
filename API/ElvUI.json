@@ -1,8 +1,8 @@
 [
   {
-    "title": "Caydys anti weakaura (liquid maximum)",
-    "file_name": "Caydys3.3.5",
-    "description": "wanted a ui without having to depend on weakauras just by using elvui actions bar you might have to drag spell to the bars so you can see the cd",
+    "title": "Caydys anti weakaura liquid maximum",
+    "file_name": "Caydys anti weakaura liquid maximum",
+    "description": "description",
     "author": "Clancy",
     "pr_author": "Sitoz",
     "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
@@ -10,24 +10,24 @@
       "Lichking"
     ],
     "tags": [
-      "General",
-      "PvE",
-      "PvP"
+      "General"
     ],
     "roles": [
-      "DPS"
+      "DPS",
+      "TANK",
+      "HEALER"
     ],
     "class": [
-      "Rogue",
-      "Warrior",
+      "Death Knight",
       "Paladin",
-      "Death Knight"
+      "Rogue",
+      "Warrior"
     ]
   },
   {
-    "title": "ToxiUI WOTLK 3.3.5 [PServers Only]",
-    "file_name": "ToxiUI3.3.5",
-    "description": "ToxiUI for World of Warcraft: Wrath of the Lich King [3.3.5 Private Servers]",
+    "title": "ToxiUI Lichking 3.3.5 PServers Only",
+    "file_name": "ToxiUI Lichking 3.3.5 PServers Only",
+    "description": "description",
     "author": "Nethanos",
     "pr_author": "Sitoz",
     "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
@@ -35,9 +35,7 @@
       "Lichking"
     ],
     "tags": [
-      "General",
-      "PvE",
-      "PvP"
+      "General"
     ],
     "roles": [
       "DPS",
@@ -45,13 +43,264 @@
       "HEALER"
     ],
     "class": [
-      "All"
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Caydys Elvui Shroud-Clean big and sharp",
+    "file_name": "Caydys Elvui Shroud-Clean big and sharp",
+    "description": "description",
+    "author": "Clancy",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "MelliUI Lichking 3.3.5 PServers Only",
+    "file_name": "MelliUI Lichking 3.3.5 PServers Only",
+    "description": "description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Danhacis Profile for Warmane",
+    "file_name": "Danhacis Profile for Warmane",
+    "description": "description",
+    "author": "Danhaci",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Monk",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Noxxys UI",
+    "file_name": "Noxxys UI",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Stas profile",
+    "file_name": "Stas profile",
+    "description": "description",
+    "author": "Godjira",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Monk",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Lo-Pro Ultrawide by RoyalT 3.3.5a",
+    "file_name": "Lo-Pro Ultrawide by RoyalT 3.3.5a",
+    "description": "description",
+    "author": "RoyalT",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Ultrawide DPS Profile by RoyalT ElvUI 3.3.5a",
+    "file_name": "Ultrawide DPS Profile by RoyalT ElvUI 3.3.5a",
+    "description": "description",
+    "author": "RoyalT",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Monk",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Appocahunter Profile",
+    "file_name": "Appocahunter Profile",
+    "description": "description",
+    "author": "lbmds",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Hunter"
     ]
   },
   {
     "title": "Clean ElvUI Preset for PRO Gamers",
-    "file_name": "ElvUI3.3.5",
-    "description": "tired of every elvui preset looking the same? try this one then",
+    "file_name": "Clean ElvUI Preset for PRO Gamers",
+    "description": "description",
     "author": "Danielwow123",
     "pr_author": "Sitoz",
     "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
@@ -59,9 +308,7 @@
       "Lichking"
     ],
     "tags": [
-      "General",
-      "PvE",
-      "PvP"
+      "General"
     ],
     "roles": [
       "DPS",
@@ -69,7 +316,384 @@
       "HEALER"
     ],
     "class": [
-      "All"
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Monk",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Neat and Organized for DPS and Tanking",
+    "file_name": "Neat and Organized for DPS and Tanking",
+    "description": "description",
+    "author": "phatiacy",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Caster DPS PvE",
+    "file_name": "Caster DPS PvE",
+    "description": "description",
+    "author": "Resto",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "OMGhixDs ElvUI Profile",
+    "file_name": "OMGhixDs ElvUI Profile",
+    "description": "description",
+    "author": "OMGhixD",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Feo Lichking",
+    "file_name": "Feo Lichking",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Crosyc",
+    "file_name": "Crosyc",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "My Profile",
+    "file_name": "My Profile",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "SimplyDark",
+    "file_name": "SimplyDark",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "ElvUI AlzaUI Version",
+    "file_name": "ElvUI AlzaUI Version",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Nohashs Druid Profile",
+    "file_name": "Nohashs Druid Profile",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Druid"
+    ]
+  },
+  {
+    "title": "Moonspells Druid Profile",
+    "file_name": "Moonspells Druid Profile",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Druid"
+    ]
+  },
+  {
+    "title": "Kamps Druid Profile",
+    "file_name": "Kamps Druid Profile",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Druid"
+    ]
+  },
+  {
+    "title": "Elvui profile retail-like Liquid Maximum",
+    "file_name": "Elvui profile retail-like Liquid Maximum",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Druid"
+    ]
+  },
+  {
+    "title": "NaowhUI Alike DPS",
+    "file_name": "NaowhUI Alike DPS",
+    "description": "description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
     ]
   }
 ]

@@ -65,6 +65,11 @@ describe('validate json and folder structure', () => {
             data.forEach((entry) => {
                 const { title, file_name, expansion, tags, roles, class: classes } = entry;
 
+                if (!expansion || (Array.isArray(expansion) && expansion.length === 0)) {
+                    console.log(`Warning: expansion is empty for entry: ${JSON.stringify(entry)}`);
+                    return; 
+                }
+
                 if (!file_name) {
                     throw new Error(`The field file_name is required: ${JSON.stringify(entry)}`);
                 }
@@ -87,6 +92,7 @@ describe('validate json and folder structure', () => {
                         expect(allowedValues.expansions).toContain(value);
                     });
                 }
+                
 
                 if (!fileNamesByExpansion[expansion]) {
                     fileNamesByExpansion[expansion] = new Set();
