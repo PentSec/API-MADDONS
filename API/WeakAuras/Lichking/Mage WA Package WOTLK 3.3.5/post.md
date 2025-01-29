@@ -1,0 +1,3 @@
+# Mage WA Package – WOTLK 3.3.5
+
+DescriptionMage WA PackageArcane–Fire–FrostThis Weakaura isQuazii’s Mage Package, and I just skinned everything to fit withNaowhUI WOTLK 3.3.5.This Weakaura is easy to edit and add new things to it or reskin it however you want it. For more information on that watchTHISyoutube guide by Quazii.In order to have the fonts available from this WA please downloadSharedMedia[BKader]if you don’t have the addon already.If you see anything wrong with the weakaura, or you can give me some tips on how to improve the WA you can contact me on theDiscord Server.Thank you for using this Weakaura

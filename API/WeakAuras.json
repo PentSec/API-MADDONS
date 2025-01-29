@@ -1,32 +1,8 @@
 [
   {
-    "title": "Rogue WA Package - WOTLK 3.3.5",
-    "file_name": "Quazii3.3.5",
-    "description": "## Quazii's Rogue Package\n\nThis Weakaura is **Quazii's Rogue Package**, and I just skinned everything to fit with *NaowhUI WOTLK 3.3.5* and added some new weakauras to make it more helpful.",
-    "author": "Nethanos",
-    "pr_author": "Sitoz",
-    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
-    "expansion": [
-      "Lichking"
-    ],
-    "tags": [
-      "General",
-      "PvE",
-      "PvP"
-    ],
-    "roles": [
-      "DPS",
-      "TANK",
-      "HEALER"
-    ],
-    "class": [
-      "Rogue"
-    ]
-  },
-  {
     "title": "Complete Feral Cat DPS suite for 3.3.5",
-    "file_name": "FeralCat3.3.5",
-    "description": "Everything you need 4 FITE !!! Optimized for PVE",
+    "file_name": "Complete Feral Cat DPS suite for 3.3.5",
+    "description": " description",
     "author": "napnap",
     "pr_author": "Sitoz",
     "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
@@ -34,30 +10,73 @@
       "Lichking"
     ],
     "tags": [
-      "General",
-      "PvE",
-      "PvP"
+      "General"
     ],
     "roles": [
       "DPS",
-      "TANK"
+      "TANK",
+      "HEALER"
     ],
     "class": [
       "Druid"
     ]
   },
   {
-    "title": "Rogue UI (ChromieCraft Level 64 bracket)",
-    "file_name": "ChromieCraft3.3.5",
-    "description": "This collection helps to keep track on all relevant information (energy, combo points, poisons, cooldowns, buffs, …) for rogues. All specializations are supported.",
-    "author": "ishidinho",
+    "title": "Affli lock by Vagoom",
+    "file_name": "Affli lock by Vagoom",
+    "description": " description",
+    "author": "Vadim",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
     "expansion": [
       "Lichking"
     ],
     "tags": [
-      "General",
-      "PvE",
-      "PvP"
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Warlock"
+    ]
+  },
+  {
+    "title": "Demo Lock Bar by Vagoom",
+    "file_name": "Demo Lock Bar by Vagoom",
+    "description": " description",
+    "author": "Vadim",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Warlock"
+    ]
+  },
+  {
+    "title": "Rogue UI ChromieCraft Level 64 bracket",
+    "file_name": "Rogue UI ChromieCraft Level 64 bracket",
+    "description": " description",
+    "author": "ishidinho",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
     ],
     "roles": [
       "DPS",
@@ -66,6 +85,760 @@
     ],
     "class": [
       "Rogue"
+    ]
+  },
+  {
+    "title": "ToxiUI Skada Profile 3.3.5 Skada by BKader",
+    "file_name": "ToxiUI Skada Profile 3.3.5 Skada by BKader",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "Global Raid Auras Wotlk-warmane",
+    "file_name": "Global Raid Auras Wotlk-warmane",
+    "description": " description",
+    "author": "Clancy",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "Priest WA Package WOTLK 3.3.5",
+    "file_name": "Priest WA Package WOTLK 3.3.5",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Priest"
+    ]
+  },
+  {
+    "title": "Death Knight WA Package WOTLK 3.3.5",
+    "file_name": "Death Knight WA Package WOTLK 3.3.5",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight"
+    ]
+  },
+  {
+    "title": "Rogue WA Package WOTLK 3.3.5",
+    "file_name": "Rogue WA Package WOTLK 3.3.5",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Rogue"
+    ]
+  },
+  {
+    "title": "Warlock WA Package WOTLK 3.3.5",
+    "file_name": "Warlock WA Package WOTLK 3.3.5",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Warlock"
+    ]
+  },
+  {
+    "title": "Paladin WA Package WOTLK 3.3.5",
+    "file_name": "Paladin WA Package WOTLK 3.3.5",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Paladin"
+    ]
+  },
+  {
+    "title": "Shaman WA Package WOTLK 3.3.5",
+    "file_name": "Shaman WA Package WOTLK 3.3.5",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Shaman"
+    ]
+  },
+  {
+    "title": "Hunter WA Package WOTLK 3.3.5",
+    "file_name": "Hunter WA Package WOTLK 3.3.5",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Hunter"
+    ]
+  },
+  {
+    "title": "Mage WA Package WOTLK 3.3.5",
+    "file_name": "Mage WA Package WOTLK 3.3.5",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Mage"
+    ]
+  },
+  {
+    "title": "Warrior WA Package WOTLK 3.3.5",
+    "file_name": "Warrior WA Package WOTLK 3.3.5",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Druid WA Package WOTLK 3.3.5",
+    "file_name": "Druid WA Package WOTLK 3.3.5",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Druid"
+    ]
+  },
+  {
+    "title": "NaowhUI Skada Profile 3.3.5 Skada by BKader",
+    "file_name": "NaowhUI Skada Profile 3.3.5 Skada by BKader",
+    "description": " description",
+    "author": "Nethanos",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "Weakaura for WOTLK 3.3.5",
+    "file_name": "Weakaura for WOTLK 3.3.5",
+    "description": " description",
+    "author": "x04x05x06",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Monk",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Twin Emperors teleport for Chromiecraft",
+    "file_name": "Twin Emperors teleport for Chromiecraft",
+    "description": " description",
+    "author": "Anatomy",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "WotLK Naowhs UI Warlock",
+    "file_name": "WotLK Naowhs UI Warlock",
+    "description": " description",
+    "author": "anhility",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Warlock"
+    ]
+  },
+  {
+    "title": "WotLK Naowhs UI Shared WAs",
+    "file_name": "WotLK Naowhs UI Shared WAs",
+    "description": " description",
+    "author": "anhility",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Portal Sales by RoyalT",
+    "file_name": "Portal Sales by RoyalT",
+    "description": " description",
+    "author": "RoyalT",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "Healer Mana",
+    "file_name": "Healer Mana",
+    "description": " description",
+    "author": "sanni",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "Clickable Mage Portals by RoyalT Horde",
+    "file_name": "Clickable Mage Portals by RoyalT Horde",
+    "description": " description",
+    "author": "RoyalT",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Mage"
+    ]
+  },
+  {
+    "title": "Drink Indicator",
+    "file_name": "Drink Indicator",
+    "description": " description",
+    "author": "Partysahne",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "Taunts on target. ChromieCraft",
+    "file_name": "Taunts on target. ChromieCraft",
+    "description": " description",
+    "author": "Snef",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "Blackwing Lair Elemental weakness ChromieCraft",
+    "file_name": "Blackwing Lair Elemental weakness ChromieCraft",
+    "description": " description",
+    "author": "Snef",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "Simple Battle shout reminder",
+    "file_name": "Simple Battle shout reminder",
+    "description": " description",
+    "author": "Jaina",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Complete Feral Cat DPS Suite",
+    "file_name": "Complete Feral Cat DPS Suite",
+    "description": " description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Druid"
+    ]
+  },
+  {
+    "title": "Hella Clean DPS + Tank",
+    "file_name": "Hella Clean DPS + Tank",
+    "description": " description",
+    "author": "phatiacy",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight",
+      "Druid",
+      "Hunter",
+      "Mage",
+      "Paladin",
+      "Priest",
+      "Rogue",
+      "Shaman",
+      "Warlock",
+      "Warrior"
+    ]
+  },
+  {
+    "title": "Retri Paladin Weak Auras by Lunminas",
+    "file_name": "Retri Paladin Weak Auras by Lunminas",
+    "description": " description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Paladin"
+    ]
+  },
+  {
+    "title": "Weapon Swing Timer",
+    "file_name": "Weapon Swing Timer",
+    "description": " description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "GCD Shown At Cursor",
+    "file_name": "GCD Shown At Cursor",
+    "description": " description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": ["All"]
+  },
+  {
+    "title": "Death Knight 1",
+    "file_name": "Death Knight 1",
+    "description": " description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight"
+    ]
+  },
+  {
+    "title": "Killing Machine Freezing Fog",
+    "file_name": "Killing Machine Freezing Fog",
+    "description": " description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight"
+    ]
+  },
+  {
+    "title": "DK Defenses",
+    "file_name": "DK Defenses",
+    "description": " description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight"
+    ]
+  },
+  {
+    "title": "DK Auras",
+    "file_name": "DK Auras",
+    "description": " description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight"
+    ]
+  },
+  {
+    "title": "DK Runes",
+    "file_name": "DK Runes",
+    "description": " description",
+    "author": "Unknown",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Lichking"
+    ],
+    "tags": [
+      "General"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "Death Knight"
     ]
   }
 ]

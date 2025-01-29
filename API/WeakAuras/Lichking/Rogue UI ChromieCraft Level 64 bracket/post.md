@@ -1,0 +1,3 @@
+# Rogue UI (ChromieCraft – Level 64 bracket)
+
+Description!!! This WeakAuras group supports the currentlevel 64 bracketonChromieCraft!!!WeakAuras 4.0.0 collection for RoguesThis collection helps to keep track on all relevant information (energy, combo points, poisons, cooldowns, buffs, …) for rogues. All specializations are supported.FeaturesAll specsEnergy barCombo PointsSlice and DiceDeadly Poison stacksAssasinationHunger For BloodCold BloodEnvenom buffOverkillVanishThistle TeaCombatRuptureKilling SpreeBlade FlurryAdrenaline RushVanishThistle TeaSubletyShadow StepShadow DancePreparationPremeditationVanish
