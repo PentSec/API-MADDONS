@@ -5733,6 +5733,50 @@
     ]
   },
   {
+    "title": "Dugis Guide Viewer",
+    "file_name": "Dugis Guide Viewer",
+    "description": "Description here.",
+    "author": "N/A",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Cataclysm"
+    ],
+    "tags": [
+      "Quests & Leveling"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "All"
+    ]
+  },
+  {
+    "title": "Dugis Guide Viewer",
+    "file_name": "Dugis Guide Viewer",
+    "description": "Description here.",
+    "author": "N/A",
+    "pr_author": "Sitoz",
+    "avatar_pr_author": "https://avatars.githubusercontent.com/u/11955573?v=4",
+    "expansion": [
+      "Pandaria"
+    ],
+    "tags": [
+      "Quests & Leveling"
+    ],
+    "roles": [
+      "DPS",
+      "TANK",
+      "HEALER"
+    ],
+    "class": [
+      "All"
+    ]
+  },
+  {
     "title": "Explorer Coords",
     "file_name": "Explorer Coords",
     "description": "Description here.",
