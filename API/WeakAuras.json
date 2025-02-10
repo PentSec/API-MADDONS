@@ -105,7 +105,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "Global Raid Auras Wotlk-warmane",
@@ -125,7 +127,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "Priest WA Package WOTLK 3.3.5",
@@ -365,7 +369,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "Weakaura for WOTLK 3.3.5",
@@ -417,7 +423,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "WotLK Naowhs UI Warlock",
@@ -490,7 +498,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "Healer Mana",
@@ -510,7 +520,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "Clickable Mage Portals by RoyalT Horde",
@@ -552,7 +564,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "Taunts on target. ChromieCraft",
@@ -572,7 +586,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "Blackwing Lair Elemental weakness ChromieCraft",
@@ -592,7 +608,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "Simple Battle shout reminder",
@@ -709,7 +727,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "GCD Shown At Cursor",
@@ -729,7 +749,9 @@
       "TANK",
       "HEALER"
     ],
-    "class": ["All"]
+    "class": [
+      "All"
+    ]
   },
   {
     "title": "Death Knight 1",
